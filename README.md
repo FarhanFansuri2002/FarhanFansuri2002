@@ -1,61 +1,58 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Farhan+Fansuri;Cybersecurity+%7C+Linux+%7C+Backend+Developer;Always+learning+and+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Farhan+Fansuri;Informatics+Graduate+from+UPN+Veteran+Yogyakarta;Software+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Farhan Fansuri</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Indonesia-🇮🇩-brightgreen?style=flat-square" alt="Indonesia" />
-  <img src="https://img.shields.io/badge/Student-UPN+Veteran+Yogyakarta-blue?style=flat-square" alt="UPN Veteran Yogyakarta" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%2C+Linux%2C+Backend-orange?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Graduate-Informatics%20UPN%20Veteran%20Yogyakarta-blue?style=flat-square" alt="Informatics UPN Veteran Yogyakarta" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development%20%7C%20AI-orange?style=flat-square" alt="Software Development and AI" />
 </p>
 
 <p align="center">
-  I’m a passionate developer who enjoys exploring <strong>cybersecurity</strong>, <strong>Linux environments</strong>, and <strong>software engineering</strong>.
-  I love learning new technologies, solving real-world problems, and building useful things from ideas into products.
+  I am a graduate of <strong>Informatics</strong> from <strong>UPN Veteran Yogyakarta</strong>.<br>
+  I specialize in <strong>software development</strong> and I am also passionate about <strong>artificial intelligence</strong>, learning how technology can be used to solve real-world problems smarter and more efficiently.
 </p>
 
 <hr />
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 👨‍🎓 Student at <strong>UPN “Veteran” Yogyakarta</strong>
-- 💻 Interested in <strong>Cybersecurity, Linux, Backend Development, and DevOps</strong>
-- 🌱 Currently learning <strong>Node.js</strong> and <strong>Golang</strong>
-- ⚡ Fun fact: I enjoy learning languages and currently expanding my Japanese skills
+- 🎓 Graduate of <strong>Informatics</strong>, <strong>UPN Veteran Yogyakarta</strong>
+- 💼 Specialist in <strong>Software Development</strong>
+- 🤖 Enthusiast in <strong>Artificial Intelligence</strong>
+- 🌱 Continuously learning and exploring new technologies
+- 🚀 Interested in building useful products, scalable systems, and intelligent solutions
 - 🌐 Portfolio: <a href="https://farhanfansuri.netlify.app/" target="_blank">farhanfansuri.netlify.app</a>
 
 <hr />
 
-## 🧠 Currently Learning
+## 🧠 Core Interests
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+- Full-Stack Development
+- Backend Engineering
+- AI & Machine Learning
+- Problem Solving & System Design
+- Productive and efficient software architecture
 
 <hr />
 
 ## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" style="background-color:white" alt="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="Jenkins" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" style="background-color:white" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
 </div>
 
 <hr />
@@ -88,4 +85,4 @@
   <img src="https://komarev.com/ghpvc/?username=FarhanFansuri2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-> “Curiosity is the engine of growth — and I’m always building, learning, and improving.”
+> “Curiosity drives innovation. As a software developer and AI enthusiast, I’m always learning, building, and improving.”
