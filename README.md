@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Farhan+Fansuri;Informatics+Graduate;Software+Developer+%26+AI+%26+Cybersecurity+Enthusiast" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Farhan+Fansuri;Informatics+Graduate;Software+Developer+Specialist;AI+%26+Cybersecurity+Enthusiast" alt="typing svg" />
 </div>
 
 <h1 align="center">Farhan Fansuri</h1>
