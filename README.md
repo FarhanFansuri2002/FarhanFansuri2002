@@ -21,10 +21,8 @@
 
 - 🎓 Graduate of <strong>Informatics</strong>, <strong>UPN Veteran Yogyakarta</strong>
 - 💼 Specialist in <strong>Software Development</strong>
-- 🤖 Enthusiast in <strong>Artificial Intelligence</strong>
-- 🔐 Passionate about <strong>Cybersecurity</strong>
+- 🕷️ Enthusiast in <strong>Artificial Intelligence</strong> & <strong>Cybersecurity</strong>
 - 🌱 Continuously learning and exploring new technologies
-- 🚀 Interested in building useful products, scalable systems, intelligent solutions, and secure applications
 - 🌐 Portfolio: <a href="https://farhanfansuri.netlify.app/" target="_blank">farhanfansuri.netlify.app</a>
 
 <hr />
