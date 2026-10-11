@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Farhan+Fansuri;Informatics+Graduate;Software+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Farhan+Fansuri;Informatics+Graduate;Software+Developer+%26+AI+%26+Cybersecurity+Enthusiast" alt="typing svg" />
 </div>
 
 <h1 align="center">Farhan Fansuri</h1>
@@ -7,12 +7,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Indonesia-🇮🇩-brightgreen?style=flat-square" alt="Indonesia" />
   <img src="https://img.shields.io/badge/Graduate-Informatics%20UPN%20Veteran%20Yogyakarta-blue?style=flat-square" alt="Informatics UPN Veteran Yogyakarta" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development%20%7C%20AI-orange?style=flat-square" alt="Software Development and AI" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development%20%7C%20AI%20%7C%20Cybersecurity-orange?style=flat-square" alt="Software Development, AI and Cybersecurity" />
 </p>
 
 <p align="center">
   I am a graduate of <strong>Informatics</strong> from <strong>UPN Veteran Yogyakarta</strong>.<br>
-  I specialize in <strong>software development</strong> and I am also passionate about <strong>artificial intelligence</strong>, learning how technology can be used to solve real-world problems smarter and more efficiently.
+  I specialize in <strong>software development</strong> and I am also passionate about <strong>artificial intelligence</strong> and <strong>cybersecurity</strong>, learning how technology can be used to solve real-world problems and protect digital systems.
 </p>
 
 <hr />
@@ -22,8 +22,9 @@
 - 🎓 Graduate of <strong>Informatics</strong>, <strong>UPN Veteran Yogyakarta</strong>
 - 💼 Specialist in <strong>Software Development</strong>
 - 🤖 Enthusiast in <strong>Artificial Intelligence</strong>
+- 🔐 Passionate about <strong>Cybersecurity</strong>
 - 🌱 Continuously learning and exploring new technologies
-- 🚀 Interested in building useful products, scalable systems, and intelligent solutions
+- 🚀 Interested in building useful products, scalable systems, intelligent solutions, and secure applications
 - 🌐 Portfolio: <a href="https://farhanfansuri.netlify.app/" target="_blank">farhanfansuri.netlify.app</a>
 
 <hr />
@@ -33,6 +34,7 @@
 - Full-Stack Development
 - Backend Engineering
 - AI & Machine Learning
+- Cybersecurity & Secure Software Development
 - Problem Solving & System Design
 - Productive and efficient software architecture
 
@@ -85,4 +87,4 @@
   <img src="https://komarev.com/ghpvc/?username=FarhanFansuri2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-> “Curiosity drives innovation. As a software developer and AI enthusiast, I’m always learning, building, and improving.”
+> "Curiosity drives innovation. As a software developer, AI enthusiast, and cybersecurity advocate, I'm always learning, building, and improving secure solutions."
