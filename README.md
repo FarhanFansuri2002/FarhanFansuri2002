@@ -27,17 +27,6 @@
 
 <hr />
 
-## 🧠 Core Interests
-
-- Full-Stack Development
-- Backend Engineering
-- AI & Machine Learning
-- Cybersecurity & Secure Software Development
-- Problem Solving & System Design
-- Productive and efficient software architecture
-
-<hr />
-
 ## 🛠️ Tech Stack
 
 <div align="left">
