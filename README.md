@@ -74,4 +74,4 @@
   <img src="https://komarev.com/ghpvc/?username=FarhanFansuri2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-> "Curiosity drives innovation. As a software developer, AI enthusiast, and cybersecurity advocate, I'm always learning, building, and improving secure solutions."
+> "Curiosity drives innovation. As a software developer, I'm always learning, building, and improving secure solutions."
